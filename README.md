@@ -56,19 +56,23 @@ pip install requests beautifulsoup4 pandas pillow colorama
 Ethical Use
 
 This project follows responsible scraping practices:
+
 ✔ Respect for robots.txt
+
 ✔ Use of delays to avoid server overload
+
 ✔ No bypass of protected systems
 
 About Me
 
 I am a Python developer focused on:
 ✔ Web scraping
+
 ✔ Automation
+
 ✔ Data processing
 
 I build simple, efficient, and client-ready solutions for real-world problems.
-
 
 Final Note
 
