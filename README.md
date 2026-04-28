@@ -35,22 +35,28 @@ Real-World Use Cases
 Skills Demonstrated
 
 •Web scraping (static websites)
+
 •Data extraction & parsing (HTML)
+
 •Data structuring (CSV)
+
 •Bulk processing (handling many links/files)
 
 How to Run
 
- 1. Install requirements
+1. Install requirements
 
 bash
 pip install requests beautifulsoup4 pandas pillow colorama
 
 2. Run any script
+
 •python product_scraper.py
 
 3. Output
+
 •Data saved as .csv
+
 •Images downloaded into folders
 
 Ethical Use
